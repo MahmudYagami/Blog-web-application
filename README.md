@@ -40,7 +40,7 @@ Follow these steps to run the project on your local PC.
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone [https://github.com/<your-username>/blog-app.git](https://github.com/MahmudYagami/Blog-web-application.git)
+git clone https://github.com/MahmudYagami/Blog-web-application.git
 cd blog-app
 ```
 
